@@ -1,0 +1,30 @@
+#outerRing{
+    position: absolute;
+    top: CALC(50% - 300px);
+    left: CALC(50% - 300px);
+    height: 600px;
+    width: 600px;
+    border: 4px solid white;
+    border-radius: 304px;
+}
+
+#watchRing{
+    position: absolute;
+    top: CALC(50% - 300px);
+    left: CALC(50% - 300px);
+    height: 500px;
+    width: 500px;
+    border: 50px solid #A97B78;
+    border-radius: 300px;
+    background-color: #FFF8AD;
+}
+
+#centerCircle{
+    position: absolute;
+    top: CALC(50% - 26px);
+    left: CALC(50% - 26px);
+    height: 52px;
+    width: 52px;
+    background-color: #807F80;
+    border-radius: 26px;
+}
